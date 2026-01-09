@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "country": "BR",
+    "generatedAt": "2026-01-08",
+    "logoStandard": {
+      "targetSizePx": 512,
+      "format": "png",
+      "background": "transparent",
+      "paddingPercent": 18,
+      "fit": "contain",
+      "notes": "Baixar a logo original (SVG/PNG) e padronizar para PNG quadrado com padding e fundo transparente."
+    }
+  },
+  "institutions": [
+    {
+      "id": "bb",
+      "name": "Banco do Brasil",
+      "category": "bank",
+      "website": "https://www.bb.com.br",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Banco_do_Brasil_logo.svg",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Banco%20do%20Brasil%20logo.svg",
+        "localPath": "logos\\bb.png"
+      }
+    },
+    {
+      "id": "caixa",
+      "name": "Caixa Econômica Federal",
+      "category": "bank",
+      "website": "https://www.caixa.gov.br",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Caixa_Econ%C3%B4mica_Federal_logo_1997.svg",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caixa%20Econ%C3%B4mica%20Federal%20logo%201997.svg",
+        "localPath": "logos\\caixa.png"
+      }
+    },
+    {
+      "id": "bradesco",
+      "name": "Bradesco",
+      "category": "bank",
+      "website": "https://banco.bradesco",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Banco_Bradesco_logo.svg",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Banco%20Bradesco%20logo.svg",
+        "localPath": "logos\\bradesco.png"
+      }
+    },
+    {
+      "id": "itau",
+      "name": "Itaú Unibanco",
+      "category": "bank",
+      "website": "https://www.itau.com.br",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Ita%C3%BA_Unibanco_logo_2023.svg",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ita%C3%BA%20Unibanco%20logo%202023.svg",
+        "localPath": "logos\\itau.png"
+      }
+    },
+    {
+      "id": "santander",
+      "name": "Santander",
+      "category": "bank",
+      "website": "https://www.santander.com.br",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Banco_Santander_Logotipo.svg",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Banco%20Santander%20Logotipo.svg",
+        "localPath": "logos\\santander.png"
+      }
+    },
+    {
+      "id": "nubank",
+      "name": "Nubank",
+      "category": "fintech",
+      "website": "https://nubank.com.br",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Nubank_logo_2021.svg",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nubank%20logo%202021.svg",
+        "localPath": "logos\\nubank.png"
+      }
+    },
+    {
+      "id": "inter",
+      "name": "Inter",
+      "category": "bank",
+      "website": "https://www.bancointer.com.br",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Logo_do_banco_Inter_(2023).svg",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20do%20banco%20Inter%20(2023).svg",
+        "localPath": "logos\\inter.png"
+      }
+    },
+    {
+      "id": "c6",
+      "name": "C6 Bank",
+      "category": "bank",
+      "website": "https://www.c6bank.com.br",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Logo_C6_Bank.svg",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20C6%20Bank.svg",
+        "localPath": "logos\\c6.png"
+      }
+    },
+    {
+      "id": "btg",
+      "name": "BTG Pactual",
+      "category": "broker",
+      "website": "https://www.btgpactual.com",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Btg-logo-blue.svg",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Btg-logo-blue.svg",
+        "localPath": "logos\\btg.png"
+      }
+    },
+    {
+      "id": "xp",
+      "name": "XP Investimentos",
+      "category": "broker",
+      "website": "https://www.xpi.com.br",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Logo_da_XP_Investimentos_01.png",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_da_XP_Investimentos_01.png",
+        "localPath": "logos\\xp.png"
+      }
+    },
+    {
+      "id": "mercadopago",
+      "name": "Mercado Pago",
+      "category": "payment",
+      "website": "https://www.mercadopago.com.br",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Mercado_Pago.svg",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercado%20Pago.svg",
+        "localPath": "logos\\mercadopago.png"
+      }
+    },
+    {
+      "id": "pagseguro",
+      "name": "PagSeguro",
+      "category": "payment",
+      "website": "https://pagseguro.uol.com.br",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Logonovo_pagseguro-cinza.png",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logonovo%20pagseguro-cinza.png",
+        "localPath": "logos\\pagseguro.png"
+      }
+    },
+    {
+      "id": "picpay",
+      "name": "PicPay",
+      "category": "payment",
+      "website": "https://picpay.com",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:PicPay_Logogrande.png",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/PicPay_Logogrande.png",
+        "localPath": "logos\\picpay.png"
+      }
+    },
+    {
+      "id": "brb",
+      "name": "BRB",
+      "category": "bank",
+      "website": "https://www.brb.com.br",
+      "logo": {
+        "source": "wikimedia_commons",
+        "filePage": "https://commons.wikimedia.org/wiki/File:BRB_Logo.png",
+        "downloadUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BRB_Logo.png",
+        "localPath": "logos\\brb.png"
+      }
+    }
+  ]
+}
